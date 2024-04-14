@@ -1,0 +1,2 @@
+# SOS
+Správa operačních systémů
